@@ -102,22 +102,22 @@ Q(t+1)=T′Q(t)+TQ(t)′
 ⇒Q(t+1)=T⊕Q(t)
 
 ### Procedure
-/* write all the steps invloved */
+```
+write all the steps invloved 
 1.Open Quartus II and select new project and choose the file location.
 2.Module Declaration. Module should have the file name.
 3.Declare Inputs and outputs.
 4.Use assign declaration and wire to define the functionality of logic circuits.
 5.End the program with endmodule.
 6.Run the program and choose RTL viewer to get RTL realization.
-
+```
 
 ### PROGRAM 
-/*
+```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
 Developed by:LOGESHWARI.P 
 RegisterNumber:212221230055 
-
-*/
+```
 ```
 i) SR FLIP FLOP:
 
@@ -174,6 +174,8 @@ endmodule
 ### D FLIP FLOP:
 ![201350334-9c51688e-7e82-4d01-ae29-4800913fa54d](https://github.com/logeshwari2004/Experiment--05-Implementation-of-flipflops-using-verilog/assets/94211349/26c2556d-5fc3-456c-bea1-b5b976ee7bb6)
 ### JK FLIP FLOP:
+![201350361-9b9db72f-f65b-4ca0-a342-52b00b187e19](https://github.com/logeshwari2004/Experiment--05-Implementation-of-flipflops-using-verilog/assets/94211349/2a373e65-b91c-48f6-b587-2fd4efbb5e38)
+
 ### T FLIP FLOP:
 ![201350402-c1c4f4e4-0083-426f-9110-4ff84beff29a](https://github.com/logeshwari2004/Experiment--05-Implementation-of-flipflops-using-verilog/assets/94211349/da805530-344c-4109-95af-393eb359c84c)
 
